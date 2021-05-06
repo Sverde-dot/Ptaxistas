@@ -1,2 +1,2 @@
 # Ptaxistas
-Base datos con oracle/java de ejomplo taxistas
+Base datos con oracle/java de ejemplo taxistas
